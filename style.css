@@ -1,0 +1,28 @@
+a {
+    text-decoration: none;
+}
+.Main_sections {
+    color: cornflowerblue;
+    font-size: 16px;
+    line-height: 20px;
+}
+.Heading_one_lv {
+    color: #222222;
+    font-size: 28px;
+    line-height: 36px;
+    font-weight: bold;
+}
+.Text {
+    font-style: normal;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 30px;
+    color: #7D7987;
+}
+.Heading_two_lv{
+    color: coral;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 80px;
+}
